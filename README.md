@@ -10,4 +10,4 @@
 [![Prince Allwi's github stats, please refresh if stats not loaded](https://github-readme-stats-sigma-khaki-15.vercel.app/api?username=allwin199&theme=dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Prince Allwi's github stats](https://github-readme-stats.vercel.app/api?username=allwin199&theme=dark&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Prince Allwi's github stats](https://github-readme-stats.vercel.app/api?username=allwin199&theme=dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
