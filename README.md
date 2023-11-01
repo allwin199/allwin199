@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prince Allwin
-- 👀 I’m interested in Blockchain, Ethereum, Evm, Defi, Solidity, Foundry
+- 👀 I’m interested in Blockchain, Ethereum, Evm, Defi, Solidity, Foundry.
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
